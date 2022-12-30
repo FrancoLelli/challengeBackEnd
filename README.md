@@ -2,6 +2,8 @@ En primer lugar ejecute el archivo utilizando un servidor local. En mi caso util
 Por lo tanto a la carpeta apirest, pegarla en la siguiente direccion: C:\xampp\php\www\
 Luego, crear en MySQL, una base de datos llamada apirest e importar el archivo apirest.sql que se encuentra en la carpeta apirest
 
+Cabe destacar que hay un archivo PNG en el que se encuentra la estrucura de la base de datos
+
 Para registrarte en la API, ejecutar los siguientes comandos
 http://127.0.0.1:8000/api/register CON POST
 
